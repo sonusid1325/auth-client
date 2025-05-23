@@ -9,7 +9,7 @@ plugins {
 }
 
 
-group = "org.example"
+group = "org.sonusid"
 version = "1.0-SNAPSHOT"
 
 repositories {
